@@ -1,0 +1,13 @@
+{
+"companyName": "SHHS",
+"productName": "自动化集装箱码头VR系统",
+"dataUrl": "test.data.unityweb",
+"wasmCodeUrl": "test.wasm.code.unityweb",
+"wasmFrameworkUrl": "test.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "test.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
